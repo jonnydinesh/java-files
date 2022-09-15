@@ -1,1 +1,14 @@
 today session git learning
+
+
+public class folder 
+{
+	public static void main(String ar[])
+	{
+	    long  a=100000000000000L;
+		int s = (int)a;
+		System.out.println(s);
+		
+	}
+
+}
